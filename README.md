@@ -3,7 +3,7 @@
 > A production-ready AI system that helps candidates analyze resumes, optimize applications, and make smarter job decisions using LLMs.
 
 ---
-# 🚀 Live Link.zz
+# 🚀 Live Link.zzz
 https://huggingface.co/spaces/Faraz618/HireMind-AI
 
 # UI Screen Shots
