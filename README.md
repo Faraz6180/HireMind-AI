@@ -1,4 +1,4 @@
-# 🚀 HireMind AI — Hiring Intelligence Platformxx
+# 🚀 HireMind AI — Hiring Intelligence Platform
 
 > A production-ready AI system that helps candidates analyze resumes, optimize applications, and make smarter job decisions using LLMs.
 
